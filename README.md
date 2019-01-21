@@ -26,9 +26,4 @@ Built With
 Authors
 •    Aashrith Chilkepalli
 
-Acknowledgments
-•    Amuthan Arulraj - Professor (Web Design and User Experience, Northeastern University)
-•    Meven - TA for Web Design and User Experience course
-•    Rohit Naik - TA for Web Design and User Experience course
-•    Li Yixuan - TA for Web Design and User Experience course
 
