@@ -22,6 +22,7 @@ Built With
 •    Angular - Angular
 •    Spotify Api - Spotify Api
 •    Google Login Api - Google Login Api
+
 Authors
 •    Aashrith Chilkepalli
 
