@@ -1,4 +1,4 @@
-AvengersPlaylist
+Spotify Music Player
 
 The Playlist application lets us login through Google credentials and search for tracks present in the spotify database and will be able to add our own customized playlist .
 We have integrated with mongoDB and will be displaying the profile details from the database.
@@ -23,10 +23,7 @@ Built With
 •    Spotify Api - Spotify Api
 •    Google Login Api - Google Login Api
 Authors
-•    Ananda Ganesh
 •    Aashrith Chilkepalli
-•    Shruti Kotian
-•    Karuna Meena
 
 Acknowledgments
 •    Amuthan Arulraj - Professor (Web Design and User Experience, Northeastern University)
